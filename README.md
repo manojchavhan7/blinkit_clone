@@ -1,1 +1,1 @@
-this is blinkit clone project made with html $ css
+this is blinkit clone project made with html & css
